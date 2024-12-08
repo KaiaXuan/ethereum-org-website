@@ -158,13 +158,13 @@ Erigon, formerly known as Turbo‐Geth, started as a fork of Go Ethereum oriente
 
 ### Go Ethereum {#geth}
 
-Go Ethereum (Geth for short) is one of the original implementations of the Ethereum protocol. Currently, it is the most widespread client with the biggest user base and variety of tooling for users and developers. It is written in Go, fully open source and licensed under the GNU LGPL v3.
+Go Ethereum (Geth for short) is one of the original implementations of the Ethereum protocol. It is written in Go, fully open source and licensed under the GNU LGPL v3.
 
 Learn more about Geth in its [documentation](https://geth.ethereum.org/docs/).
 
 ### Nethermind {#nethermind}
 
-Nethermind is an Ethereum implementation created with the C# .NET tech stack, licensed with LGPL-3.0, running on all major platforms including ARM. It offers great performance with:
+Nethermind is an Ethereum implementation created with the C# .NET tech stack, licensed with LGPL-3.0, running on all major platforms including ARM. Currently, it is the most widespread client with the biggest user base and variety of tooling for users and developers. It offers great performance with:
 
 - an optimized virtual machine
 - state access
